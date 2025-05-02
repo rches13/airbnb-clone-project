@@ -105,3 +105,19 @@ Tracks API usage patterns for proactive security management.
 
 ---
 
+## CI/CD Pipeline
+### What are CI/CD Pipelines?
+CI/CD pipelines automate code integration, testing, and deployment processes, ensuring efficiency and stability.
+
+### Why Are They Important?
+- Speed up development cycles.
+- Improve code quality through frequent testing.
+- Enable reliable and consistent deployments.
+
+### Tools Used
+- **GitHub Actions**: Automates workflows for testing and deployment.
+- **Docker**: Maintains consistency across development and production environments.
+- **Jenkins**: Manages complex CI/CD processes.
+- **Kubernetes**: Orchestrates containerized applications in production environments.
+
+---

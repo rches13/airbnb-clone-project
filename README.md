@@ -37,3 +37,28 @@ Handles deployment, monitoring, and scaling using containerization tools like Do
 ### QA Engineer
 Writes test cases, conducts manual and automated tests, ensuring functionality meets quality standards.
 
+---
+
+## Database Design
+### Key Entities
+#### Users
+- `user_id`, `name`, `email`, `password`, `profile_picture`
+- A user can own multiple properties, make bookings, and write reviews.
+
+#### Properties
+- `property_id`, `owner_id`, `name`, `location`, `price_per_night`
+- Each property is associated with an owner and can have bookings and reviews.
+
+#### Bookings
+- `booking_id`, `user_id`, `property_id`, `check_in_date`, `check_out_date`
+- Bookings are linked to specific properties and users.
+
+#### Reviews
+- `review_id`, `user_id`, `property_id`, `rating`, `comment`
+- Reviews are linked to users and properties.
+
+#### Payments
+- `payment_id`, `booking_id`, `amount`, `payment_date`, `status`
+- Payments correspond to specific bookings, recording transaction details.
+
+---

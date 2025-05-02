@@ -21,3 +21,19 @@ The backend for the Airbnb Clone project provides a robust and scalable foundati
 - **Redis**: In-memory data store for caching and session management.
 - **Docker**: Containerization tool for consistent development and deployment.
 - **CI/CD Pipelines**: Automated workflows for efficient testing and deployment.
+
+---
+
+## Team Roles
+### Backend Developer
+Responsible for implementing API endpoints, database schemas, and business logic.
+
+### Database Administrator
+Manages database design, indexing, and optimizations to ensure data integrity and performance.
+
+### DevOps Engineer
+Handles deployment, monitoring, and scaling using containerization tools like Docker.
+
+### QA Engineer
+Writes test cases, conducts manual and automated tests, ensuring functionality meets quality standards.
+

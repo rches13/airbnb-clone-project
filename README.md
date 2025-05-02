@@ -82,3 +82,26 @@ Enables users to leave feedback and ratings, fostering transparency and trust.
 ### Data Optimization
 Indexing and caching strategies improve data retrieval speed and reduce database load.
 
+---
+
+## API Security
+### Authentication
+Token-based methods like JWT ensure verified users access the system.
+
+### Authorization
+Role-based permissions restrict actions based on user roles.
+
+### Rate Limiting
+Prevents abuse through brute force attacks and safeguards server performance.
+
+### Data Encryption
+Secure transmission and storage of sensitive data, such as passwords and payments.
+
+### Input Validation
+Protects the system from malicious inputs like SQL injection.
+
+### Logging and Monitoring
+Tracks API usage patterns for proactive security management.
+
+---
+

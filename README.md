@@ -62,3 +62,23 @@ Writes test cases, conducts manual and automated tests, ensuring functionality m
 - Payments correspond to specific bookings, recording transaction details.
 
 ---
+
+## Feature Breakdown
+### User Management
+Facilitates secure account creation, authentication, and profile management for users.
+
+### Property Management
+Allows hosts to list, update, and retrieve property details while enabling guests to browse available options.
+
+### Booking System
+Provides a centralized system for users to make and manage property reservations.
+
+### Payment Processing
+Ensures secure financial transactions between guests and hosts.
+
+### Review System
+Enables users to leave feedback and ratings, fostering transparency and trust.
+
+### Data Optimization
+Indexing and caching strategies improve data retrieval speed and reduce database load.
+
